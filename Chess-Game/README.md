@@ -4,7 +4,7 @@ _______________________________________________________________________
 
 ## What is it
 
-- This program will provide the user an attractive user interface of Chess Game.
+- This program will provide the user an attractive user interface of Chess Game. 
 - This chess game is created using PYTHON language.
 - Start the file on terminal.
 - File will automatically fetch the required files and create a interactive gui for the user.
